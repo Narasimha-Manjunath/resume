@@ -1,0 +1,167 @@
+p{
+  text-align: center;
+}
+ .top1{
+   font-size: 30px;
+ }
+
+
+.top{
+  text-align: center;
+  padding-bottom: 50px;
+  font-size: 19px;
+}
+
+hr{
+  border: solid #3f3f44 2px;
+  border-bottom: none;
+
+}
+
+
+.col{
+  color: blue;
+}
+
+.edu{
+  margin:30px;
+  text-align: left;
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+.edu1{
+  text-align: left;
+  text-decoration: none;
+  padding: 0px 0px 0px 20px;
+}
+
+.edu2{
+  text-align: left;
+  padding: 0px 0px 0px 40px;
+}
+
+.edu3{
+  text-align: left;
+  padding: 0px 0px 0px 20px;
+}
+
+.edu4{
+  text-align: left;
+  padding: 0px 0px 0px 20px;
+}
+
+.edu5{
+  text-align: left;
+  padding: 0px 0px 0px 40px;
+}
+
+.edu7{
+  text-align: left;
+  padding: 0px 0px 0px 20px;
+}
+
+
+.edu6{
+    text-align: left;
+    padding: 0px 0px 0px 40px;
+}
+
+.ski{
+  margin:30px;
+  text-align: left;
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+.ski1{
+  text-align: left;
+  padding: 0px 0px 0px 30px;
+
+}
+
+.area{
+  margin:30px;
+  font-size: 25px;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.area1{
+  text-align: left;
+  padding: 0px 0px 0px 30px;
+}
+
+.projects{
+  margin:30px;
+  text-align: left;
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+.proj1{
+  text-align: left;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.proj2{
+  text-align: left;
+  padding: 0px 0px 0px 40px;
+
+}
+
+.proj3{
+  text-align: left;
+  padding: 0px 0px 0px 20px;
+}
+
+.proj4{
+  text-align: left;
+  padding: 0px 0px 0px 40px;
+}
+
+.co{
+  margin:30px;
+  font-size: 25px;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.co1{
+  text-align: left;
+  padding: 0px 0px 0px 30px;
+}
+
+
+.pro{
+  margin:30px;
+  text-align: left;
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+.pro1{
+  text-align: left;
+  font-size: 20px;
+  padding: 0px 0px 0px 30px;
+}
+.person{
+  margin:30px;
+  font-size: 25px;
+  text-align: left;
+  text-decoration: underline;
+}
+
+.tab{
+  padding:  0px 0px 0px 30px;
+}
+
+ th, td {
+
+   border: 1px solid black;
+}
+
+.top-container{
+  border: 1px solid;
+}
